@@ -34,6 +34,8 @@ several Python libraries:
 All those technologies makes available to use different approaches for
 estimating of quality of wine.
 
+Also there is short Youtube video about this project: https://www.youtube.com/watch?v=ZOnEryXfjgY
+
 # The results of the work:
 
 ## SystemML (LogisticRegression):
