@@ -31,6 +31,7 @@ several Python libraries:
 7. SystemMl
 8. Apache Spark
 9. SystemML
+
 All those technologies makes available to use different approaches for
 estimating of quality of wine.
 
