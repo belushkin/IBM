@@ -3,8 +3,7 @@ IBM data-science capstone project, Coursera course
 
 I am going to predict Wine Quality by using Watson Machine Learning.
 I selected this example from IBM Call for code challenge:
-https://developer.ibm.com/patterns/create-and-deploy-a-scoring-model-to-
-predict-heartrate-failure/. This example will follow me on how to create
+https://developer.ibm.com/patterns/create-and-deploy-a-scoring-model-to-predict-heartrate-failure/. This example will follow me on how to create
 correct repository and how to deploy application to IBM Watson studio.
 This example has all the steps described on how I am going to deploy my
 own application I have created specifically for Capstone project
