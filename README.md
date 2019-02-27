@@ -67,7 +67,7 @@ Normalizer as part of data engineering process.
 ### Results:
 1) F1: 0.8901
 
-## Keras:
+## Keras (Deep Learning):
 Here I used feed-forward network in order to try to predict quality of wine
 itself. I used Pandas and K-fold cross validation algorithm in order to get
 correct prediction values. Also I used Standard Scaler in order to
